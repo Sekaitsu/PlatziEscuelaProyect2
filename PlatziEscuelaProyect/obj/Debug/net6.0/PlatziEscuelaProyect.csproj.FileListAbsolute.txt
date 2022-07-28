@@ -1,0 +1,15 @@
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\obj\Debug\net6.0\PlatziEscuelaProyect.csproj.AssemblyReference.cache
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\obj\Debug\net6.0\PlatziEscuelaProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\obj\Debug\net6.0\PlatziEscuelaProyect.AssemblyInfoInputs.cache
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\obj\Debug\net6.0\PlatziEscuelaProyect.AssemblyInfo.cs
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\obj\Debug\net6.0\PlatziEscuelaProyect.csproj.CoreCompileInputs.cache
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\bin\Debug\net6.0\PlatziEscuelaProyect.exe
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\bin\Debug\net6.0\PlatziEscuelaProyect.deps.json
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\bin\Debug\net6.0\PlatziEscuelaProyect.runtimeconfig.json
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\bin\Debug\net6.0\PlatziEscuelaProyect.dll
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\bin\Debug\net6.0\PlatziEscuelaProyect.pdb
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\obj\Debug\net6.0\PlatziEscuelaProyect.dll
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\obj\Debug\net6.0\refint\PlatziEscuelaProyect.dll
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\obj\Debug\net6.0\PlatziEscuelaProyect.pdb
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\obj\Debug\net6.0\PlatziEscuelaProyect.genruntimeconfig.cache
+C:\Users\lbernate\source\repos\PlatziEscuelaProyect\PlatziEscuelaProyect\obj\Debug\net6.0\ref\PlatziEscuelaProyect.dll
