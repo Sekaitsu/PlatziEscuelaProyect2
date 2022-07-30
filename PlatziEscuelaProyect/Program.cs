@@ -37,12 +37,16 @@ namespace Etapa1
             escuela.Cursos.AddRange(otrColeccion);
             ImpimirCursosEscuela(escuela);
 
-            Predicate<Curso> miAlgoritmo = Predicado;
-            escuela.Cursos.RemoveAll(Predicado);
-
-            WriteLine("=======------------======");
+            //expresión delegate
+            escuela.Cursos.RemoveAll(delegate (Curso cur)
+                                    {
+                                        return cur.Nombre == "301";
+                                    });
+            //expresion lambda
+            escuela.Cursos.RemoveAll((cur)=> cur.Nombre == "501" && cur.Jornada == TiposJornada.Mañana );
+            
+            WriteLine("==================");
             ImpimirCursosEscuela(escuela);
-            //otrColeccion.Clear();
         }
 
         private static bool Predicado(Curso curobj)
@@ -102,4 +106,4 @@ namespace Etapa1
             }
         }
     }
-}
+}   
