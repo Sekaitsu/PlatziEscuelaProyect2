@@ -9,6 +9,6 @@ namespace PlatziEscuelaProyect.Entidades
     //Se usa ENUM para enumerar las variables de esa entiedad
     public enum TiposJornada
     {
-        Mañana,Tarde,Noche
+        Mañana, Tarde, Noche
     }
 }
